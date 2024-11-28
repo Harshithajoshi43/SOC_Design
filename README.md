@@ -1,5 +1,5 @@
 # SOC_Design
-##Day1
+## Day1
 
 <details>
   <summary>Lab1</summary>
