@@ -3,9 +3,10 @@
 
 <details>
   <summary>Lab</summary>
-  Screenshots of running each commands
-  
+ 
   1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
+
+      Screenshots of running each commands
   
   ![Screenshot 2024-11-28 010505](https://github.com/user-attachments/assets/9b9ebfb9-2997-45c7-96e5-f8895d4e7b89)
   ![Screenshot 2024-11-28 010750](https://github.com/user-attachments/assets/c0bc9a60-38ff-4ccf-9a24-458875dd37ef)
