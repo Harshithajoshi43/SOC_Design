@@ -18,7 +18,7 @@
   
   Number of D Flip Flop = 1613 Total number of cells = 14876
 
-  Calculating Flop ratio = no.of d-flipflop/total cells
+  Calculating Flop ratio = no.of d-flipflop / total cells
   
   _Flop Ratio_ = 1613/14876 = 0.108429685
 
