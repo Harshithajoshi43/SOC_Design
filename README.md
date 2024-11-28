@@ -14,8 +14,7 @@
   ![Screenshot 2024-11-28 010807](https://github.com/user-attachments/assets/edbc7213-939d-4d5b-b304-987a2d6b538c)
   ![Screenshot 2024-11-28 010819](https://github.com/user-attachments/assets/8ec32558-d44a-4f8d-ab00-bd915c74422a)
   Calculation of Flop Ratio :
-  
-          _Flop Ratio_ = 1613/14876 = 0.108429685
+      _Flop Ratio_ = 1613/14876 = 0.108429685
 
   
 </details>
