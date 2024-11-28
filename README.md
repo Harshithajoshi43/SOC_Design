@@ -1,8 +1,8 @@
 # Digital VLSI SoC_design and planning
-## Day1
+## Day 1
 
 <details>
-  <summary>Lab1</summary>
+  <summary>Lab</summary>
   Screenshots of running each commands
   
   1. Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.
