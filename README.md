@@ -1,4 +1,4 @@
-![Screenshot 2024-12-04 124130](https://github.com/user-attachments/assets/cc9c8684-4bcd-4237-9a1c-f28c2ef92e87)# Digital VLSI SoC_design and planning
+# Digital VLSI SoC_design and planning
 ## Day 1
 
 <details>
