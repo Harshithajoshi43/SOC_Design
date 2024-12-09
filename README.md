@@ -54,6 +54,27 @@ run_synthesis
 ## Day 2
 
 <details>
+<summary>Lab</summary>
+
+
+  
+</details>
+
+
+## Day 3
+
+<details>
+<summary>Lab</summary>
+
+
+  
+</details>
+
+
+
+## Day 4
+
+<details>
 
 
 <summary> Lab </summary>
