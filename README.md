@@ -137,6 +137,12 @@ run_synthesis
 
 ![image](https://github.com/user-attachments/assets/49e7eca5-34b5-4b73-8f65-addb6c3542a9)
 
+![image](https://github.com/user-attachments/assets/eb0d8516-9481-49be-b8d8-8309966a2565)
+
+![image](https://github.com/user-attachments/assets/ee6bb4ac-1bc5-425c-98a9-be1130ca73f2)
+
+![image](https://github.com/user-attachments/assets/dadc1a60-d317-40e0-9807-4cb3d0baa1a3)
+
 
 
 </details>
