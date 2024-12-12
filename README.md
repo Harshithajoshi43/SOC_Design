@@ -64,13 +64,15 @@ run_synthesis
 ![Screenshot 2024-11-28 212536](https://github.com/user-attachments/assets/e5526c6f-9526-4173-b38b-aa196e5162ac)
 ![Screenshot 2024-11-28 213432](https://github.com/user-attachments/assets/396839ab-a57d-4f67-952e-246520396c74)
 ![Screenshot 2024-11-28 223040](https://github.com/user-attachments/assets/e40d4114-f139-4e86-8dc9-63dc08739594)
+![Screenshot 2024-11-28 223040](https://github.com/user-attachments/assets/68bf9169-e052-47f4-8983-41b8b8ae951e)
+
 ![Screenshot 2024-11-28 225338](https://github.com/user-attachments/assets/25d23232-046d-4b90-8274-adbff66c4b96)
 ![Screenshot 2024-11-28 225645](https://github.com/user-attachments/assets/9b0785c0-7526-4d42-a2c9-b747eb0798cc)
 ![Screenshot 2024-11-28 225734](https://github.com/user-attachments/assets/235c8ef1-5f10-4ca4-9a58-b0d19878c667)
 ![Screenshot 2024-11-28 230456](https://github.com/user-attachments/assets/3a0c31df-47a4-4408-998e-2e3d24b560fb)
 ![Screenshot 2024-11-28 230520](https://github.com/user-attachments/assets/68caf424-c5f1-4cda-be39-2facfb9de052)
 
-  
+
 </details>
 
 
