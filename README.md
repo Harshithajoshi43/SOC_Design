@@ -137,6 +137,21 @@ run_synthesis
 
 <summary> Lab </summary>
 
+![image](https://github.com/user-attachments/assets/6ad1fb06-935f-43a3-833b-88c3c91b975d)
+
+![image](https://github.com/user-attachments/assets/31ec9793-c50d-4b31-8c3d-7e1cee3bd808)
+
+![image](https://github.com/user-attachments/assets/5a391e30-72a3-48e0-b5e6-15c495f707fe)
+
+![image](https://github.com/user-attachments/assets/a8ab443a-5610-401c-b12c-be7e0718e530)
+
+![image](https://github.com/user-attachments/assets/fd0acea8-c439-49fc-9694-ed497dc48e1e)
+
+![image](https://github.com/user-attachments/assets/ad479e31-c9d9-45ec-89bc-25ce4dbc02d7)
+
+![image](https://github.com/user-attachments/assets/2f1b884d-e269-41fe-9495-87c670e35111)
+
+
 
 
 
