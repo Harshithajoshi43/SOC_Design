@@ -148,6 +148,7 @@ run_synthesis
 
 ![Screenshot 2024-12-12 193558](https://github.com/user-attachments/assets/bd554e1d-a009-4bbc-8d87-59aa95be35d1)
 
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/7d788234-7d79-4206-9eaa-e73b87c7cc41" />
 
 
 </details>
