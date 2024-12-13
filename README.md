@@ -175,7 +175,11 @@ run_synthesis
 
 </details>
 
+## Day 5
 
+<details>
+  <summary>Lab</summary>
+  
 ![image](https://github.com/user-attachments/assets/c034f45c-308d-4a58-a1c6-48ac6e9f1428)
 
 ![image](https://github.com/user-attachments/assets/b7674363-3767-4bf5-8fd1-8d25b97b6936)
@@ -184,4 +188,4 @@ run_synthesis
 
 ![image](https://github.com/user-attachments/assets/4fe41fdc-5b28-4e68-b6ad-71f863a79bd1)
 
-
+</details>
