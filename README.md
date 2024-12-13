@@ -86,6 +86,7 @@ Steps to Open Magic
 <summary>Lab</summary>
   
 ``` git clone https://github.com/nickson-jose/vsdstdcelldesign ``` 
+
 ``` magic -T sky130A.tech sky130_inv.mag & ```
   
 ![Screenshot 2024-11-29 193248](https://github.com/user-attachments/assets/14b717a3-a172-4164-9f0d-8036a4b9841a)
@@ -94,9 +95,13 @@ Steps to Open Magic
 
 ![Screenshot 2024-11-29 193317](https://github.com/user-attachments/assets/dd3adc9e-4752-457f-8f8e-5f57296aa7fc)
 Extracted the SPICE file
+
 ``` extract all ```
+
 ``` ext2spice cthresh 0 rthresh 0 ```
+
 ``` ext2spice ```
+
 ![Screenshot 2024-11-29 200843](https://github.com/user-attachments/assets/88776d55-559e-4604-8c7a-6ff890e2f812)
 ![Screenshot 2024-11-29 202557](https://github.com/user-attachments/assets/1ac9f862-68e6-451f-a469-b5c7c1e4fc8e)
 ![Screenshot 2024-11-29 203412](https://github.com/user-attachments/assets/74a8f84a-dac8-44d2-be4d-b43bbd64fcf5)
@@ -105,7 +110,9 @@ Extracted the SPICE file
 ![Screenshot 2024-11-29 224609](https://github.com/user-attachments/assets/b9b00e00-c8a4-4bb5-a864-4b59d4e7a8da)
 
 ![Screenshot 2024-11-29 225015](https://github.com/user-attachments/assets/630cf2c4-49e7-4d4b-9fc4-1ef40f19daf0)
+
 ``` plot y vs time a ```
+
 ![Screenshot 2024-11-29 231631](https://github.com/user-attachments/assets/9ce104cc-a7cc-4fa9-8009-a5a0127220bb)
 ![Screenshot 2024-11-29 231648](https://github.com/user-attachments/assets/d665da6e-35af-4145-a26c-1d5087032ce8)
 ![Screenshot 2024-11-30 150815](https://github.com/user-attachments/assets/cc239838-605f-43d6-a2f3-60e990e06a1a)
