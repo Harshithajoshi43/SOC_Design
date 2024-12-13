@@ -56,6 +56,8 @@ run_synthesis
 <details>
 <summary>Lab</summary>
   
+``` run_floorplan ```
+  
 ![Screenshot 2024-11-28 205443](https://github.com/user-attachments/assets/f32aa03b-27d1-4cd3-883c-fe745fab77f6)
   
 ![Screenshot 2024-11-28 210003](https://github.com/user-attachments/assets/ade4abd2-99cf-49c5-b10f-a22eb88036db)
@@ -63,7 +65,11 @@ run_synthesis
 10041](https://github.com/user-attachments/assets/ea276892-13f9-4599-99c6-c4545e50118a)
 ![Screenshot 2024-11-28 212536](https://github.com/user-attachments/assets/e5526c6f-9526-4173-b38b-aa196e5162ac)
 ![Screenshot 2024-11-28 213432](https://github.com/user-attachments/assets/396839ab-a57d-4f67-952e-246520396c74)
+
+Seeing Die area
 ![Screenshot 2024-11-28 223040](https://github.com/user-attachments/assets/e40d4114-f139-4e86-8dc9-63dc08739594)
+Steps to Open Magic
+```magic -T /home/vsduser//Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def & ```
 
 ![Screenshot 2024-11-28 225338](https://github.com/user-attachments/assets/25d23232-046d-4b90-8274-adbff66c4b96)
 ![Screenshot 2024-11-28 225645](https://github.com/user-attachments/assets/9b0785c0-7526-4d42-a2c9-b747eb0798cc)
@@ -79,12 +85,18 @@ run_synthesis
 <details>
 <summary>Lab</summary>
   
+``` git clone https://github.com/nickson-jose/vsdstdcelldesign ``` 
+``` magic -T sky130A.tech sky130_inv.mag & ```
+  
 ![Screenshot 2024-11-29 193248](https://github.com/user-attachments/assets/14b717a3-a172-4164-9f0d-8036a4b9841a)
 
 ![Screenshot 2024-11-29 193305](https://github.com/user-attachments/assets/b2983a4e-a776-4970-9381-a9f9d90ac47f)
 
 ![Screenshot 2024-11-29 193317](https://github.com/user-attachments/assets/dd3adc9e-4752-457f-8f8e-5f57296aa7fc)
-
+Extracted the SPICE file
+``` extract all ```
+``` ext2spice cthresh 0 rthresh 0 ```
+``` ext2spice ```
 ![Screenshot 2024-11-29 200843](https://github.com/user-attachments/assets/88776d55-559e-4604-8c7a-6ff890e2f812)
 ![Screenshot 2024-11-29 202557](https://github.com/user-attachments/assets/1ac9f862-68e6-451f-a469-b5c7c1e4fc8e)
 ![Screenshot 2024-11-29 203412](https://github.com/user-attachments/assets/74a8f84a-dac8-44d2-be4d-b43bbd64fcf5)
@@ -93,6 +105,7 @@ run_synthesis
 ![Screenshot 2024-11-29 224609](https://github.com/user-attachments/assets/b9b00e00-c8a4-4bb5-a864-4b59d4e7a8da)
 
 ![Screenshot 2024-11-29 225015](https://github.com/user-attachments/assets/630cf2c4-49e7-4d4b-9fc4-1ef40f19daf0)
+``` plot y vs time a ```
 ![Screenshot 2024-11-29 231631](https://github.com/user-attachments/assets/9ce104cc-a7cc-4fa9-8009-a5a0127220bb)
 ![Screenshot 2024-11-29 231648](https://github.com/user-attachments/assets/d665da6e-35af-4145-a26c-1d5087032ce8)
 ![Screenshot 2024-11-30 150815](https://github.com/user-attachments/assets/cc239838-605f-43d6-a2f3-60e990e06a1a)
@@ -102,7 +115,7 @@ run_synthesis
 
 ![Screenshot 2024-11-30 155728](https://github.com/user-attachments/assets/b13ca6b8-8be3-4e3d-9038-c38b588e2d9e)
 ![Screenshot 2024-11-30 160544](https://github.com/user-attachments/assets/779d88cd-4e1c-4491-8a62-e11ba3484168)
-![Screenshot 2024-11-30 181114](https://github.com/user-attachments/assets/e7f04b97-3559-43fc-b3d6-4a91e8109ff0)
+
 ![Screenshot 2024-11-30 181128](https://github.com/user-attachments/assets/d0af130e-25bf-4c80-a9f0-3bb5f8e26533)
 
 ![Screenshot 2024-11-30 233538](https://github.com/user-attachments/assets/62f5c438-c22e-4c3d-a3a4-b1d52d1bc6ba)
