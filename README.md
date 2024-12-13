@@ -238,5 +238,9 @@ run_synthesis
 
 ![image](https://github.com/user-attachments/assets/f119b2ab-eabd-415f-a221-b467f54250af)
 
+![Screenshot 2024-12-14 005932](https://github.com/user-attachments/assets/f4e41cd7-c5bb-4164-abdc-1c9b4ab9d6e4)
+
+![Screenshot 2024-12-14 004016](https://github.com/user-attachments/assets/0bfa740b-0153-47d4-9518-d09710572f1a)
+
 
 </details>
