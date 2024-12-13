@@ -137,6 +137,28 @@ run_synthesis
 
 <summary> Lab </summary>
 
+![Screenshot 2024-12-01 234324](https://github.com/user-attachments/assets/4c2131ec-fb4d-4363-9adb-3f1916142710)
+
+![Screenshot 2024-12-02 003735](https://github.com/user-attachments/assets/d22852f4-b6ed-4135-a993-378530c2ee98)
+
+![Screenshot 2024-12-02 004035](https://github.com/user-attachments/assets/30033976-d613-41bb-bf85-968210a4585c)
+
+![Screenshot 2024-12-02 004047](https://github.com/user-attachments/assets/c2d1c320-a155-4e6c-9408-3d9af074051a)
+
+![Screenshot 2024-12-04 123717](https://github.com/user-attachments/assets/251da8c3-9750-4068-9cb9-d128bc81fcf7)
+
+![Screenshot 2024-12-04 123828](https://github.com/user-attachments/assets/e0fc5eaa-1a87-40da-bbaa-7778f37a4e2e)
+
+![Screenshot 2024-12-04 124108](https://github.com/user-attachments/assets/c6ee1b96-b0db-4782-8932-98e9f432a4d5)
+
+![Screenshot 2024-12-04 124122](https://github.com/user-attachments/assets/b1ba1d12-5512-4a58-9885-13ce867e9a1e)
+
+![Screenshot 2024-12-04 124130](https://github.com/user-attachments/assets/e01bb4b8-bb9e-4697-a19c-64bcbcd82f36)
+
+![Screenshot 2024-12-04 125025](https://github.com/user-attachments/assets/435dc095-0438-4521-b6a7-cca8a4f71cd8)
+
+
+
 ![image](https://github.com/user-attachments/assets/6ad1fb06-935f-43a3-833b-88c3c91b975d)
 
 ![image](https://github.com/user-attachments/assets/31ec9793-c50d-4b31-8c3d-7e1cee3bd808)
@@ -187,5 +209,8 @@ run_synthesis
 ![image](https://github.com/user-attachments/assets/27d40f50-602b-4461-a77e-19136085db0d)
 
 ![image](https://github.com/user-attachments/assets/4fe41fdc-5b28-4e68-b6ad-71f863a79bd1)
+
+![image](https://github.com/user-attachments/assets/f119b2ab-eabd-415f-a221-b467f54250af)
+
 
 </details>
