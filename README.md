@@ -173,8 +173,52 @@ plot y vs time a
 
 <summary> Lab </summary>
 
-![Screenshot 2024-12-01 234324](https://github.com/user-attachments/assets/4c2131ec-fb4d-4363-9adb-3f1916142710)
+Pre-layout timing analysis and Clock Tree Synthesis
 
+```
+ cd Desktop/work/tools/openlane_working_dir/openlane/vsdstdcelldesign
+```
+```
+magic -T sky130A.tech sky130_inv.mag &
+```
+In tikicon window
+```
+help grid
+```
+```
+help grid
+```
+```
+grid 0.46um 0.34um 0.23um 0.17um
+```
+
+
+![Screenshot 2024-12-01 234324](https://github.com/user-attachments/assets/4c2131ec-fb4d-4363-9adb-3f1916142710)
+```
+cd Desktop/work/tools/openlane_working_dir/openlane
+```
+```
+docker
+```
+```
+./flow.tcl -interactive
+```
+```
+package require openlane 0.9
+```
+```
+prep -design picorv32a
+```
+```
+set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
+```
+```
+add_lefs -src $lefs
+```
+```
+run_synthesis
+```
+Successfully run synthesis
 ![Screenshot 2024-12-02 003735](https://github.com/user-attachments/assets/d22852f4-b6ed-4135-a993-378530c2ee98)
 
 ![Screenshot 2024-12-02 004035](https://github.com/user-attachments/assets/30033976-d613-41bb-bf85-968210a4585c)
