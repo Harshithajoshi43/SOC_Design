@@ -333,5 +333,5 @@ Successfully run synthesis
 * [R. Timothy Edwards](https://github.com/RTimothyEdwards), Senior Vice President of Analog and Design, efabless Corporation.
 * Google Skywater 130 PDK
 * [Fayiz ferosh](https://github.com/fayizferosh/soc-design-and-planning-nasscom-vsd), Reference repository.
-* [Nahusha.karnam](https://github.com/Nahusha-Karnam/SOC_Design), Reference repository.
+* [Nahusha Karnam](https://github.com/Nahusha-Karnam/SOC_Design), Reference repository.
 
