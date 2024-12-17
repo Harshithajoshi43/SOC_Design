@@ -324,3 +324,10 @@ Successfully run synthesis
 
 
 </details>
+
+
+# Acknowledgements
+
+* [Kunal Ghosh](https://github.com/kunalg123), Co-founder, VSD Corp. Pvt. Ltd.
+* [Nickson P Jose](https://github.com/nickson-jose), Physical Design Engineer, Intel Corporation.
+* [R. Timothy Edwards](https://github.com/RTimothyEdwards), Senior Vice President of Analog and Design, efabless Corporation.
